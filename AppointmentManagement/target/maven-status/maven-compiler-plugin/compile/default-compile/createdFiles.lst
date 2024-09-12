@@ -1,0 +1,6 @@
+com\mycompany\appointmentmanagement\AppointmentManagement.class
+com\mycompany\appointmentmanagement\Appointment.class
+com\mycompany\appointmentmanagement\Specialist.class
+com\mycompany\appointmentmanagement\Doctor.class
+com\mycompany\appointmentmanagement\Patient.class
+com\mycompany\appointmentmanagement\GeneralPractitioner.class
